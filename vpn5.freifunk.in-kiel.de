@@ -1,2 +1,2 @@
 key "692f620fbc01c3dd69d3126c76a258854bd2de6ea6a9f6889620c78f98065c8c";
-remote ipv4 "192.168.0.12" port 11235;
+remote ipv4 "192.168.0.10" port 11235;
